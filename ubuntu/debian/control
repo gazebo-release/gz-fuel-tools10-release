@@ -10,7 +10,7 @@ Build-Depends: cmake,
                libgz-common6-core-dev,
                libgz-common6-testing-dev,
                libgz-msgs11-dev,
-               libgz-tools3-dev,
+               libgz-tools2-dev,
                libzip-dev,
                libjsoncpp-dev,
                libcurl4-openssl-dev,
@@ -26,7 +26,7 @@ Architecture: any
 Section: libs
 Pre-Depends: ${misc:Pre-Depends}
 Depends: ${shlibs:Depends}, ${misc:Depends},
-         gz-tools3
+         gz-tools2
 Multi-Arch: same
 Description: Gazebo fuel-tools classes and functions - Shared library
  Gazebo Fuel Tools is composed by a client library and command line
@@ -41,7 +41,7 @@ Section: libdevel
 Depends: libgz-cmake4-dev,
        libgz-common6-core-dev,
        libgz-msgs11-dev,
-       libgz-tools3-dev,
+       libgz-tools2-dev,
        libzip-dev,
        libjsoncpp-dev,
        libcurl4-openssl-dev,
