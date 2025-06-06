@@ -1,3 +1,9 @@
+gz-fuel-tools10 (10.1.0-1~noble) noble; urgency=medium
+
+  * gz-fuel-tools10 10.1.0-1 release
+
+ -- Ian Chen <ichen@openrobotics.org>  Fri, 06 Jun 2025 17:50:10 +0000
+
 gz-fuel-tools10 (10.0.1-1~noble) noble; urgency=medium
 
   * gz-fuel-tools10 10.0.1-1 release
