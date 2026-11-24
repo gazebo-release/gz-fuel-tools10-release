@@ -1,3 +1,9 @@
+gz-fuel-tools10 (10.1.1-1~jammy) jammy; urgency=medium
+
+  * gz-fuel-tools10 10.1.1-1 release
+
+ -- nate koenig <nate.koenig@gmail.com>  Tue, 24 Nov 2026 13:29:53 -0800
+
 gz-fuel-tools10 (10.1.0-1~jammy) jammy; urgency=medium
 
   * gz-fuel-tools10 10.1.0-1 release
